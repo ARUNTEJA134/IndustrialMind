@@ -1,0 +1,18 @@
+# Secret Keys
+.env
+
+# Python Backend
+backend/venv/
+backend/__pycache__/
+backend/chroma_db/
+backend/uploads/
+backend/docs_store.json
+backend/uploaded_docs.json
+
+# React Frontend
+frontend/node_modules/
+frontend/build/
+
+# System Files
+.DS_Store
+*.pyc
